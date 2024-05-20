@@ -3,17 +3,17 @@
 
 ### Education
 
-Masters of Science in Engineering: **Data Science** at the **University of Pennsylvania**
+* Masters of Science in Engineering: **Data Science** at the **University of Pennsylvania**
 
-Bachelors in **Applied Mathematics** and **Economics** at **Colgate University**
+* Bachelors in **Applied Mathematics** and **Economics** at **Colgate University**
 
 ### Work Experience
 
 * Incoming Machine Learning Engineer Intern @ **Sisense**
 
-Data Analyst @ **Unqork**
+* Data Analyst @ **Unqork**
 
-Analytics Intern @ **Unqork**
+* Analytics Intern @ **Unqork**
 
 ### Projects
 
