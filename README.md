@@ -17,12 +17,31 @@
 
 ### Projects
 
-Adapting Explainability Methods to Image Generation Models
+**Machine Learning**:
+* Adapting Explainability Methods to Image Generation Models
+    
+![Trustworthy ML Project](/docs/assets/Trustworthy Machine Learning.jpg)
+Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
 
-Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
+* Explaining Medical Insurance Price Prediction Models
 
-Explaining Medical Insurance Price Prediction Models
+* Workflow Use Case Clustering
 
-Workflow Use Case Clustering
+**Probability Models**
 
-Decomposing Recent Protests in the US
+* Modeling Credit Card Usage using Negative Binomial Distributions
+  ![Credit Card Usage Project](/docs/assets/Picture1.jpg)
+
+* Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
+
+
+
+* Decomposing Recent Protests in the US
+
+**Business Strategy in Tech**
+
+* End-to-end business plan for a biodegradable soil sensors
+ ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
+
+* Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
+ ![AR/VR Consulting Project](docs/assets/Leveraging AR_VR in Connected Living Technology Insurance_FINAL.pptx.jpg)
