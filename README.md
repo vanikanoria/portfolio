@@ -21,6 +21,7 @@
 * Adapting Explainability Methods to Image Generation Models
     
 ![Trustworthy ML Project](/docs/assets/Trustworthy_Machine_Learning.jpg)
+
 Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
 
 * Explaining Medical Insurance Price Prediction Models
@@ -44,4 +45,5 @@ Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
+
  ![AR/VR Consulting Project](docs/assets/ARVR.jpg)
