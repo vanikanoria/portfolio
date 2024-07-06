@@ -9,7 +9,7 @@
 
 ### Work Experience
 
-* Incoming Machine Learning Engineer Intern @ **Sisense**
+* Machine Learning Engineer Intern @ **Sisense**
 
 * Data Analyst @ **Unqork**
 
@@ -26,10 +26,10 @@ Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_
 
 * Explaining Medical Insurance Price Prediction Models
 
+In this project I apply 4 different machine learning models (Linear Regression, Random Forests, Decision Tree Regressor and XGBoost Regressor) to predict charges on medical insurance based on demographic characteristics of the holds of insurance. I then utilize feature importance functions in sklearn and SHAP analysis to attribute feature importance of each model.
+
 ![Insurance ML Project](/docs/assets/rf_model.png)
 Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
-
-
 
 * Workflow Use Case Clustering
 
