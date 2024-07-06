@@ -42,6 +42,7 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
 
 
+**Data Analysis**
 
 * Decomposing Recent Protests in the US
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/monthly_assoc_actors_2020.png)
