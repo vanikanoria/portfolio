@@ -26,6 +26,11 @@ Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_
 
 * Explaining Medical Insurance Price Prediction Models
 
+![Insurance ML Project](/docs/assets/rf_model.png)
+Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
+
+
+
 * Workflow Use Case Clustering
 
 **Probability Models**
