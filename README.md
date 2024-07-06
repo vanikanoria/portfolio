@@ -40,8 +40,6 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
 
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
 
-![Insurance ML Project](/docs/assets/rf_model.png)
-Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
 
 
 * Decomposing Recent Protests in the US
