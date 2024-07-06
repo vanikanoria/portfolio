@@ -38,6 +38,7 @@ Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_
 
 
 * Decomposing Recent Protests in the US
+  ![Protests in the US: Exploratory Data Analysis](/docs/assets/monthly_assoc_actors_2020.png)
 
 **Business Strategy in Tech**
 
