@@ -20,7 +20,7 @@
 **Machine Learning**:
 * Adapting Explainability Methods to Image Generation Models
     
-![Trustworthy ML Project](/docs/assets/Trustworthy_Machine_Learning.jpg)
+![Trustworthy ML Project](/docs/assets/shap.jpg)
 
 Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
 
@@ -28,7 +28,7 @@ Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_
 
 In this project I apply 4 different machine learning models (Linear Regression, Random Forests, Decision Tree Regressor and XGBoost Regressor) to predict charges on medical insurance based on demographic characteristics of the holds of insurance. I then utilize feature importance functions in sklearn and SHAP analysis to attribute feature importance of each model.
 
-![Insurance ML Project](/docs/assets/rf_model.png)
+![Insurance ML Project](/docs/assets/insurance.jpg)
 
 Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
 
