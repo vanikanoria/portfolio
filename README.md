@@ -1,4 +1,4 @@
-![Profile Picture](/docs/assets/portfolio_editing.jpg)
+![Profile Picture](/docs/assets/p1.jpg)
 # Vani Kanoria: Data Scientist
 
 ### Education
@@ -37,10 +37,10 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
 **Probability Models**
 
 * Modeling Credit Card Usage using Negative Binomial Distributions
-  ![Credit Card Usage Project](/docs/assets/Picture1.jpg)
+  ![Credit Card Usage Project](/docs/assets/creditCard.jpg)
 
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
-![Wonka Project](/docs/assets/wonka.png)
+![Wonka Project](/docs/assets/wonka.jpg)
 
 **Data Analysis**
 
