@@ -1,4 +1,4 @@
-![Profile Picture](/docs/assets/Vani_copy.jpg)
+![Profile Picture](/docs/assets/portfolio_editing.jpg)
 # Data Scientist
 
 ### Education
