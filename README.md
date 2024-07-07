@@ -1,5 +1,5 @@
-![Profile Picture](/docs/assets/Vani_copy.jpg)
-# Data Scientist
+![Profile Picture](/docs/assets/portfolio_editing.jpg)
+# Vani Kanoria: Data Scientist
 
 ### Education
 
