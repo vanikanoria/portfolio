@@ -34,24 +34,40 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
 
 * Workflow Use Case Clustering
 
+* Generating Fashion Images using Generative Adversarial Networks
+
+I use Fashion-MNIST data to train a model that generates fashion images from random noise, uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated. I.e. make them more and more realistic and harder to distinguish from the real images.
+
+
 **Probability Models**
 
 * Modeling Credit Card Usage using Negative Binomial Distributions
+
+How many credit cards do people in the United States own and why? This breakdown of the number of credit cards regularly used by different age groups sheds light on the preferred number of cards for different demographic groups, and may even provide hints about financial habits exhibited by them. 
+
   ![Credit Card Usage Project](/docs/assets/creditCard.jpg)
 
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
+
+This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
+
 ![Wonka Project](/docs/assets/wonka.jpg)
 
 **Data Analysis**
 
 * Decomposing Recent Protests in the US
-  ![Protests in the US: Exploratory Data Analysis](/docs/assets/monthly_assoc_actors_2020.png)
+
+In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
+
+  ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
 Github link: https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb
 
 
 **Business Strategy in Tech**
 
 * End-to-end business plan for a biodegradable soil sensors
+
+
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
