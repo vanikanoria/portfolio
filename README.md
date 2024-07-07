@@ -40,7 +40,7 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
   ![Credit Card Usage Project](/docs/assets/Picture1.jpg)
 
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
-![Wonka Project](/docs/assets/wonka.jpg)
+![Wonka Project](/docs/assets/wonka.png)
 
 **Data Analysis**
 
