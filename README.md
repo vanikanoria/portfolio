@@ -9,6 +9,8 @@
 
 ### Work Experience
 
+* Machine Learning Engineer (Part-Time) @ **Sisense**
+
 * Machine Learning Engineer Intern @ **Sisense**
 
 * Data Analyst @ **Unqork**
