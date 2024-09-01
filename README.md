@@ -36,9 +36,11 @@ Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-P
 
 * Workflow Use Case Clustering
 
+As a Product Data Analyst at Unqork, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
+
 * Generating Fashion Images using Generative Adversarial Networks
 
-I use Fashion-MNIST data to train a model that generates fashion images from random noise, uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated. I.e. make them more and more realistic and harder to distinguish from the real images.
+I use Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
 
 
 **Probability Models**
@@ -69,6 +71,7 @@ Github link: https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Explorator
 
 * End-to-end business plan for a biodegradable soil sensors
 
+As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
 
