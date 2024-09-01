@@ -74,4 +74,7 @@ Github link: https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Explorator
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
+I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Collaborating advise Assurant Solutions, a Fortune 500 insurance provider, on leveraging Augmented and Virtual Reality technologies in their smart devices insurance division across their value chain. We presented a competitor analysis and Go-to-Market plan to implement the technology into Assurant’s existing business model
+
+
  ![AR/VR Consulting Project](docs/assets/ARVR.jpg)
