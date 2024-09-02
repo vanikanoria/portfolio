@@ -24,12 +24,14 @@
 * Building Churn Prediction Model for Sisense's Customers Using 4 Data Sources
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 98% test accuracy on both models.
+
   
 * Adapting Explainability Methods to Image Generation Models
     
 ![Trustworthy ML Project](/docs/assets/shap.jpg)
 
 Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
+
 
 * Explaining Medical Insurance Price Prediction Models
 
@@ -39,9 +41,11 @@ In this project I apply 4 different machine learning models (Linear Regression, 
 
 Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
 
+
 * Workflow Use Case Clustering
 
 As a Product Data Analyst at Unqork, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
+
 
 * Generating Fashion Images using Generative Adversarial Networks
 
@@ -56,11 +60,13 @@ How many credit cards do people in the United States own and why? This breakdown
 
   ![Credit Card Usage Project](/docs/assets/creditCard.jpg)
 
+
 * Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
 
 This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
 
 ![Wonka Project](/docs/assets/wonka.jpg)
+
 
 **Data Analysis**
 
@@ -79,6 +85,7 @@ Github link: https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Explorator
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
+
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
