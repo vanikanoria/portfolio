@@ -20,6 +20,11 @@
 ### Projects
 
 **Machine Learning**:
+
+* Building Churn Prediction Model for Sisense's Customers Using 4 Data Sources
+
+In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 98% test accuracy on both models.
+  
 * Adapting Explainability Methods to Image Generation Models
     
 ![Trustworthy ML Project](/docs/assets/shap.jpg)
