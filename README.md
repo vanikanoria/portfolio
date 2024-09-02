@@ -49,7 +49,7 @@ As a Product Data Analyst at Unqork, I quantified characteristics of application
 
 * Generating Fashion Images using Generative Adversarial Networks
 
-I use Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
+I used Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
 
 
 **Probability Models**
