@@ -30,12 +30,7 @@ In this internship project, I built two machine learning models to predict churn
     
 ![Trustworthy ML Project](/docs/assets/shap.jpg)
 
-Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
-
-
-<a href="https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb" target="_blank">Visit Example Site</a>
-
-[Link Text]([https://example.com](https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb))
+<a href="https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb" target="_blank">Github link</a>
 
 * Explaining Medical Insurance Price Prediction Models
 
@@ -43,8 +38,7 @@ In this project I apply 4 different machine learning models (Linear Regression, 
 
 ![Insurance ML Project](/docs/assets/insurance.jpg)
 
-Github link: https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb
-
+<a href="https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb" target="_blank">Github link</a>
 
 * Workflow Use Case Clustering
 
@@ -79,8 +73,9 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
 
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
-Github link: https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb
+Github link: 
 
+<a href="https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb" target="_blank">Github link</a>
 
 **Business Strategy in Tech**
 
