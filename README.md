@@ -9,19 +9,19 @@
 
 ### Work Experience
 
-* Machine Learning Engineer (Part-Time) @ **Sisense**
+* Machine Learning Engineer (Part-Time) @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
 
-* Machine Learning Engineer Intern @ **Sisense**
+* Machine Learning Engineer Intern @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
 
-* Data Analyst @ **Unqork**
+* Data Analyst @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
 
-* Analytics Intern @ **Unqork**
+* Analytics Intern @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
 
 ### Projects
 
 **Machine Learning**:
 
-* Building Churn Prediction Model for  <a href="https://www.sisense.com/" target="_blank">Sisense</a>'s Customers Using 4 Data Sources
+* Building Churn Prediction Model for  Sisense's Customers Using 4 Data Sources
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 98% test accuracy on both models.
 
