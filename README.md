@@ -92,4 +92,5 @@ I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Coll
 
 
  ![AR/VR Consulting Project](docs/assets/ARVR.jpg)
+ 
  <a href="https://docs.google.com/presentation/d/1SJXlQ_9DXfKgh1gjMd89HgMOJMibB6_I/edit?usp=drive_link&ouid=113368363770653803719&rtpof=true&sd=true" target="_blank">Link to slide deck</a>
