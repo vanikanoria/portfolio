@@ -73,6 +73,7 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
 
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
+
 <a href="https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb" target="_blank">Github link</a>
 
 **Business Strategy in Tech**
@@ -82,7 +83,8 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
-<a href="https://docs.google.com/presentation/d/1LCqmTNJ7ml7fCio8PndM6OE5DTvxfYXaJ7hTeSNl6aE/edit?usp=drive_link" target="_blank">Link to slide deck</a>
+
+<a href="https://docs.google.com/presentation/d/1LCqmTNJ7ml7fCio8PndM6OE5DTvxfYXaJ7hTeSNl6aE/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">Link to slide deck</a>
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
