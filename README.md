@@ -73,8 +73,6 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
 
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
-Github link: 
-
 <a href="https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb" target="_blank">Github link</a>
 
 **Business Strategy in Tech**
