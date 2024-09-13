@@ -32,6 +32,7 @@ In this internship project, I built two machine learning models to predict churn
 
 Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
 
+[Link Text]([https://example.com](https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb))
 
 * Explaining Medical Insurance Price Prediction Models
 
