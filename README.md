@@ -33,7 +33,7 @@ In this internship project, I built two machine learning models to predict churn
 Github link: https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb
 
 
-<a href="[https://example.com](https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb)" target="_blank">Visit Example Site</a>
+<a href="https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb" target="_blank">Visit Example Site</a>
 
 [Link Text]([https://example.com](https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb))
 
