@@ -1,7 +1,11 @@
 ![Profile Picture](/docs/assets/p1.jpg)
 # Vani Kanoria: Data Scientist
 
-Hello, I'm a Data Scientist with a passion for explainable machine learning and product strategy. I grew up being fascinating by Mathematics, which drew me to Data Analysis projects at Colgate University. I then analyzed data to drive business and product strategy at a tech startup, and have now returned to school at the University of Pennsylvania to study Machine Learning. I am also an  **<a href="https://eent.seas.upenn.edu/fellows/2024-cohort/#kanoria" target="_blank">Engineering Entrepreneurship Fellow</a>** , which means I also get to study how high-growth tech work from a business perspective.
+I'm a Data Scientist passionate about explainable machine learning and product strategy. I grew up being fascinating by Mathematics, which drew me to Data Analysis projects at Colgate University. From there, I transitioned into the tech world, analyzing data to shape business and product strategy at a fast-paced startup. Now, I’m further honing my expertise in machine learning as a Masters student at the University of Pennsylvania.
+
+In addition to technical skills, I bring a unique perspective on high-growth tech businesses as an **<a href="https://eent.seas.upenn.edu/fellows/2024-cohort/#kanoria" target="_blank">Engineering Entrepreneurship Fellow</a>**, where I study the intersection of innovation, technology, and business strategy.
+
+
 
 ### Education
 
