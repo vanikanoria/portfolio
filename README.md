@@ -29,7 +29,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 * Building Churn Prediction Model for  Sisense's Customers Using 4 Data Sources
 
-In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 98% test accuracy on both models.
+In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 94% test accuracy overall by combining the models.
 
   
 * Adapting Explainability Methods to Image Generation Models
