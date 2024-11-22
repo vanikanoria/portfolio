@@ -12,7 +12,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 ## Machine Learning
 
-* Churn Prediction Model for  Sisense Customers
+- [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)  
 
 * Adapting Explainability Methods to Image Generation Models
 
@@ -38,6 +38,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 * Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
+<a id="churn-prediction-model-for-sisense"></a>  
 ## Churn Prediction Model for  Sisense
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 94% test accuracy overall by combining the models.
