@@ -35,8 +35,8 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 94% test accuracy overall by combining the models.
 
-**Action:**  
-Developed machine learning models to predict customer churn for Sisense's client base during my internship.  
+**Objective:**  
+- Develop machine learning models to predict customer churn for Sisense's client base.
 
 **Methods:**  
 - Collected and processed data from support/engineering tickets, Gong call transcripts, product usage metrics, and onboarding data.  
@@ -53,8 +53,8 @@ Developed machine learning models to predict customer churn for Sisense's client
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
 
-**Action:**  
-Developed an explainability framework for text-to-image generation models, focusing on Stable Diffusion.  
+**Objective:**  
+- Identify key tokens in text-to-image generation models, focusing on Stable Diffusion.  
 
 **Methods:**  
 - Adapted Shapley values (SHAP) to identify key tokens in text prompts.  
@@ -73,8 +73,8 @@ Developed an explainability framework for text-to-image generation models, focus
 
 In this project I apply 4 different machine learning models (Linear Regression, Random Forests, Decision Tree Regressor and XGBoost Regressor) to predict charges on medical insurance based on demographic characteristics of the holds of insurance. I then utilize feature importance functions in sklearn and SHAP analysis to attribute feature importance of each model.
 
-**Action:**  
-Built machine learning models to predict medical insurance charges based on demographic data.  
+**Objective:**   
+- Predict medical insurance charges based on demographic data and identify most optimal model in terms of the accuracy-interpretability tradeoff.  
 
 **Methods:**  
 - Applied four models: Linear Regression, Random Forest, Decision Tree Regressor, and XGBoost.  
@@ -93,8 +93,8 @@ Built machine learning models to predict medical insurance charges based on demo
 
 As a Product Data Analyst at Unqork, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
 
-**Action:**  
-Analyzed and categorized applications built using  **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s no-code platform.  
+**Objective:**  
+- Analyze and categorize applications built using the workflow feature **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s no-code platform to inform future product roadmap.
 
 **Methods:**  
 - Extracted key characteristics from applications.  
@@ -110,8 +110,8 @@ Analyzed and categorized applications built using  **<a href="https://www.unqork
 
 I used Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
 
-**Action:**  
-Built a GAN model to generate realistic fashion images.  
+**Objective:**   
+- Generate realistic images of clothing to creativity in fashion.  
 
 **Methods:**  
 - Trained the model using Fashion-MNIST data.  
@@ -126,8 +126,8 @@ Built a GAN model to generate realistic fashion images.
 
 How many credit cards do people in the United States own and why? This breakdown of the number of credit cards regularly used by different age groups sheds light on the preferred number of cards for different demographic groups, and may even provide hints about financial habits exhibited by them. 
 
-**Action:**  
-Analyzed patterns in credit card ownership across different age groups in the U.S.  
+**Objective**  
+- Analyzed patterns in credit card ownership to inform credit card strategy.  
 
 **Methods:**  
 - Applied Negative Binomial Distribution models to survey data.  
@@ -144,8 +144,8 @@ Analyzed patterns in credit card ownership across different age groups in the U.
 
 This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
 
-**Action:**  
-Modeled ticket sales trends for the movie "Wonka" using probabilistic methods.  
+**Objective**  
+- Modeled ticket sale trends for the movie "Wonka" using probabilistic methods to learn about behavioral trends and factors influencing moviegoers.  
 
 **Methods:**  
 - Applied time-series probability distributions (e.g., Weibull Distribution).  
@@ -162,8 +162,8 @@ Modeled ticket sales trends for the movie "Wonka" using probabilistic methods.
 
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
 
-**Action:**  
-Analyzed and categorized 42,533 protests across the U.S. (2020–2022).  
+**Objective**  
+- Analyze and categorize 42,533 protests across the U.S. (2020–2022) to indentify key actors and trends driving the protests.
 
 **Methods:**  
 - Decomposed data by location, nature, timeframe, and associated organizations.  
@@ -183,8 +183,8 @@ Analyzed and categorized 42,533 protests across the U.S. (2020–2022).
 
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
-**Action:**  
-Developed a comprehensive business plan for biodegradable soil sensors.  
+**Objective**  
+- Develope a comprehensive business plan to commercialize biodegradable soil sensors  
 
 **Methods:**  
 - Conducted market research and competitor analysis.  
@@ -202,8 +202,8 @@ Developed a comprehensive business plan for biodegradable soil sensors.
 
 I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Collaborating advise Assurant Solutions, a Fortune 500 insurance provider, on leveraging Augmented and Virtual Reality technologies in their smart devices insurance division across their value chain. We presented a competitor analysis and Go-to-Market plan to implement the technology into Assurant’s existing business model
 
-**Action:**  
-Advised Assurant Solutions on leveraging AR/VR technology.  
+**Objective**   
+- Advise Assurant Solutions on leveraging AR/VR technology to reduce costs in their value chain.  
 
 **Methods:**  
 - Conducted competitor analysis and identified use cases for smart device insurance.  
