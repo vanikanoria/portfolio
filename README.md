@@ -22,11 +22,21 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 * Generating Fashion Images using Generative Adversarial Networks
 
+## Probability Modeling
 
+* Modeling Credit Card Usage using Negative Binomial Distributions
 
+* Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’
 
+## Data Analysis
 
-**Machine Learning**:
+* Decomposing Recent Protests in the US
+
+## Business Strategy in Tech
+
+* End-to-end business plan for a biodegradable soil sensors
+
+* Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
 ## Churn Prediction Model for  Sisense
 
@@ -103,13 +113,13 @@ I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Coll
  <a href="https://docs.google.com/presentation/d/1SJXlQ_9DXfKgh1gjMd89HgMOJMibB6_I/edit?usp=drive_link&ouid=113368363770653803719&rtpof=true&sd=true" target="_blank">Link to slide deck</a>
 
 
-### Education
+# Education
 
 * Masters of Science in Engineering: **Data Science** at the **University of Pennsylvania**
 
 * Bachelors in **Applied Mathematics** and **Economics** at **Colgate University**
 
-### Work Experience
+# Work Experience
 
 * Machine Learning Engineer (Part-Time) @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
 
