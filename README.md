@@ -15,8 +15,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)  
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
-- [Workflow Use Case Clustering](#workflow-use-case-clustering)  
-- [Generating Fashion Images using Generative Adversarial Networks](#generating-fashion-images-using-generative-adversarial-networks)  
+- [Use Case Clustering for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s Software Feature](#workflow-use-case-clustering)  
 
 
 ### Probability Modeling
@@ -103,23 +102,7 @@ As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank"
 **Results:**  
 - Optimized product strategy by focusing on key use cases.  
 - Saved **70% of engineering resources** by prioritizing high-impact clusters.  
-
-
-<a id="generating-fashion-images-using-generative-adversarial-networks"></a>  
-## Generating Fashion Images using Generative Adversarial Networks
-
-I used Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
-
-**Objective:**   
-- Generate realistic images of clothing to creativity in fashion.  
-
-**Methods:**  
-- Trained the model using Fashion-MNIST data.  
-- Implemented a feedback loop between the generator and discriminator networks.  
-
-**Results:**  
-- Successfully generated realistic fashion images from random noise.  
-- Demonstrated the potential of GANs for creative design tasks.  
+ 
 
 <a id="modeling-credit-card-usage-using-negative-binomial-distributions"></a>  
 ## Modeling Credit Card Usage using Negative Binomial Distributions
