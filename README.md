@@ -12,7 +12,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 ## Machine Learning
 
-* [Churn Prediction Model for  Sisense Customers] [https://github.com/vanikanoria/portfolio/README.md#churn-prediction-model-for-sisense]
+* [Churn Prediction Model for  Sisense Customers] (https://github.com/vanikanoria/portfolio/README.md#churn-prediction-model-for-sisense)
 
 * Adapting Explainability Methods to Image Generation Models
 
