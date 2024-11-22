@@ -40,7 +40,10 @@ Developed machine learning models to predict customer churn for Sisense's client
 
 **Methods:**  
 - Collected and processed data from support/engineering tickets, Gong call transcripts, product usage metrics, and onboarding data.  
-- Engineered predictive features and built two machine learning models (e.g., Random Forest, Logistic Regression).  
+- Segmented customers by size and use case
+- Engineered predictive features and built Random Forests model for each segment
+- Add feature attribution using Shapley values, explaining to customer success which features are signalling high churn risk
+- Designed user interface to optimize actionability
 
 **Results:**  
 - Achieved **94% test accuracy** by combining models.  
