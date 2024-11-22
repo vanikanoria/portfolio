@@ -15,7 +15,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)  
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
-- [Use Case Clustering for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s Software Feature](#workflow-use-case-clustering)  
+- [Use Case Clustering for <a href="https://www.unqork.com/" target="_blank">Unqork</a>'s Software Feature](#workflow-use-case-clustering)  
 
 
 ### Probability Modeling
