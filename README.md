@@ -7,23 +7,19 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 
 
-### Education
-
-* Masters of Science in Engineering: **Data Science** at the **University of Pennsylvania**
-
-* Bachelors in **Applied Mathematics** and **Economics** at **Colgate University**
-
-### Work Experience
-
-* Machine Learning Engineer (Part-Time) @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
-
-* Machine Learning Engineer Intern @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
-
-* Data Analyst @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
-
-* Analytics Intern @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
 
 ### Projects
+
+* Building Churn Prediction Model for  Sisense's Customers Using 4 Data Sources (Machine Learning)
+
+* Adapting Explainability Methods to Image Generation Models
+
+* Explaining Medical Insurance Price Prediction Models
+
+* Workflow Use Case Clustering
+
+* Generating Fashion Images using Generative Adversarial Networks
+
 
 **Machine Learning**:
 
@@ -100,3 +96,20 @@ I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Coll
  ![AR/VR Consulting Project](docs/assets/ARVR.jpg)
  
  <a href="https://docs.google.com/presentation/d/1SJXlQ_9DXfKgh1gjMd89HgMOJMibB6_I/edit?usp=drive_link&ouid=113368363770653803719&rtpof=true&sd=true" target="_blank">Link to slide deck</a>
+
+
+### Education
+
+* Masters of Science in Engineering: **Data Science** at the **University of Pennsylvania**
+
+* Bachelors in **Applied Mathematics** and **Economics** at **Colgate University**
+
+### Work Experience
+
+* Machine Learning Engineer (Part-Time) @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
+
+* Machine Learning Engineer Intern @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
+
+* Data Analyst @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
+
+* Analytics Intern @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
