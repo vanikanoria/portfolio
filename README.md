@@ -14,9 +14,8 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)  
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
+- [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
-- [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)  
-
 
 ### Probability Modeling
 - [Modeling Credit Card Usage using Negative Binomial Distributions](#modeling-credit-card-usage-using-negative-binomial-distributions)  
@@ -67,6 +66,22 @@ In this internship project, I built two machine learning models to predict churn
 
 <a href="https://github.com/CalebG1/TrustworthyML/blob/main/Automating_SHAP_value_calculation.ipynb" target="_blank">Github link</a>
 
+<a id="workflow-use-case-clustering"></a>  
+## Use Case Clustering for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s No-Code Workflow Development Feature
+
+As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
+
+**Objective:**  
+- Analyze and categorize applications built using the workflow feature **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s no-code platform to inform future product roadmap.
+
+**Methods:**  
+- Extracted key characteristics from applications.  
+- Applied clustering algorithms to identify distinct use case categories.  
+
+**Results:**  
+- Optimized product strategy by focusing on key use cases.  
+- Saved **70% of engineering resources** by prioritizing high-impact clusters.
+
 <a id="explaining-medical-insurance-price-prediction-models"></a>  
 ## Explaining Medical Insurance Price Prediction Models
 
@@ -86,22 +101,7 @@ In this project I apply 4 different machine learning models (Linear Regression, 
 ![Insurance ML Project](/docs/assets/insurance.jpg)
 
 <a href="https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb" target="_blank">Github link</a>
-
-<a id="workflow-use-case-clustering"></a>  
-## Use Case Clustering for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s No-Code Workflow Development Feature
-
-As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
-
-**Objective:**  
-- Analyze and categorize applications built using the workflow feature **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s no-code platform to inform future product roadmap.
-
-**Methods:**  
-- Extracted key characteristics from applications.  
-- Applied clustering algorithms to identify distinct use case categories.  
-
-**Results:**  
-- Optimized product strategy by focusing on key use cases.  
-- Saved **70% of engineering resources** by prioritizing high-impact clusters.  
+  
  
 
 <a id="modeling-credit-card-usage-using-negative-binomial-distributions"></a>  
