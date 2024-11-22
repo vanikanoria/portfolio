@@ -139,6 +139,9 @@ How many credit cards do people in the United States own and why? This breakdown
 
   ![Credit Card Usage Project](/docs/assets/creditCard.jpg)
 
+<a href= "https://docs.google.com/document/d/19pGHoWhPxMCa6Oa3IsEaXWJZjmh3kMTXBLWdWFak0HE/edit?usp=sharing" target="_blank">Link to paper</a>
+
+
 <a id="generative-probability-models-for-wonka-ticket-sales"></a>  
 ## Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
 
