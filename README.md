@@ -31,7 +31,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Consulting Fortune 500 Insurance Company on Integrating AR/VR](#consulting-insurance-company-on-arvr-integration)  
 
 <a id="churn-prediction-model-for-sisense"></a>  
-## Churn Prediction Model for  Sisense
+## Churn Prediction Model for **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 94% test accuracy overall by combining the models.
 
@@ -52,6 +52,17 @@ Developed machine learning models to predict customer churn for Sisense's client
  
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
+
+**Action:**  
+Developed an explainability framework for text-to-image generation models, focusing on Stable Diffusion.  
+
+**Methods:**  
+- Adapted Shapley values (SHAP) to identify key tokens in text prompts.  
+- Applied the framework to understand how input tokens influence generated images.  
+
+**Results:**  
+- Achieved **90% accuracy** in identifying key tokens.  
+- Enhanced model transparency and interpretability for end-users.  
     
 ![Trustworthy ML Project](/docs/assets/shap.jpg)
 
