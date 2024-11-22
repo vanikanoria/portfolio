@@ -10,7 +10,9 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 ### Projects
 
-* Building Churn Prediction Model for  Sisense's Customers Using 4 Data Sources (Machine Learning)
+## Machine Learning
+
+* Churn Prediction Model for  Sisense's Customers [https://github.com/vanikanoria/portfolio/README.md#churn-prediction-model-for-sisense]
 
 * Adapting Explainability Methods to Image Generation Models
 
@@ -21,14 +23,17 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 * Generating Fashion Images using Generative Adversarial Networks
 
 
+
+
+
 **Machine Learning**:
 
-* Building Churn Prediction Model for  Sisense's Customers Using 4 Data Sources
+# Churn Prediction Model for  Sisense
 
 In this internship project, I built two machine learning models to predict churn using features I developed from support and engineering tickets, customer call transcripts, product usage data and onboarding data. I achieved 94% test accuracy overall by combining the models.
 
   
-* Adapting Explainability Methods to Image Generation Models
+# Adapting Explainability Methods to Image Generation Models
     
 ![Trustworthy ML Project](/docs/assets/shap.jpg)
 
