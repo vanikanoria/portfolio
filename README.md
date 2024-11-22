@@ -73,26 +73,69 @@ Developed an explainability framework for text-to-image generation models, focus
 
 In this project I apply 4 different machine learning models (Linear Regression, Random Forests, Decision Tree Regressor and XGBoost Regressor) to predict charges on medical insurance based on demographic characteristics of the holds of insurance. I then utilize feature importance functions in sklearn and SHAP analysis to attribute feature importance of each model.
 
+**Action:**  
+Built machine learning models to predict medical insurance charges based on demographic data.  
+
+**Methods:**  
+- Applied four models: Linear Regression, Random Forest, Decision Tree Regressor, and XGBoost.  
+- Used feature importance (scikit-learn) and SHAP analysis to interpret model outputs.  
+
+**Results:**  
+- Identified key factors influencing insurance costs (e.g., age, BMI, smoking status).  
+- Improved model transparency, aiding in fair and explainable predictions.  
 
 ![Insurance ML Project](/docs/assets/insurance.jpg)
 
 <a href="https://github.com/vanikanoria/Explaining-Medical-Insurance-Price-Prediction-Models/blob/main/Medical%20Insurance%20Price%20Prediction.ipynb" target="_blank">Github link</a>
 
 <a id="workflow-use-case-clustering"></a>  
-## Workflow Use Case Clustering
+## Use Case Clustering for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s No-Code Workflow Development Feature
 
 As a Product Data Analyst at Unqork, I quantified characteristics of applications created using Unqork’s software and applied clustering algorithms to categorize use cases, leading to a pivot in product strategy and saving 70% of engineering resources allocated.
+
+**Action:**  
+Analyzed and categorized applications built using  **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**'s no-code platform.  
+
+**Methods:**  
+- Extracted key characteristics from applications.  
+- Applied clustering algorithms to identify distinct use case categories.  
+
+**Results:**  
+- Optimized product strategy by focusing on key use cases.  
+- Saved **70% of engineering resources** by prioritizing high-impact clusters.  
+
 
 <a id="generating-fashion-images-using-generative-adversarial-networks"></a>  
 ## Generating Fashion Images using Generative Adversarial Networks
 
 I used Fashion-MNIST data to train a model that generates fashion images from random noise. The Generative Adversarial Network (GAN) uses a discriminator to predict which of the images are fake, and uses the feedback loop during training to improve upon the images generated.
 
+**Action:**  
+Built a GAN model to generate realistic fashion images.  
+
+**Methods:**  
+- Trained the model using Fashion-MNIST data.  
+- Implemented a feedback loop between the generator and discriminator networks.  
+
+**Results:**  
+- Successfully generated realistic fashion images from random noise.  
+- Demonstrated the potential of GANs for creative design tasks.  
 
 <a id="modeling-credit-card-usage-using-negative-binomial-distributions"></a>  
 ## Modeling Credit Card Usage using Negative Binomial Distributions
 
 How many credit cards do people in the United States own and why? This breakdown of the number of credit cards regularly used by different age groups sheds light on the preferred number of cards for different demographic groups, and may even provide hints about financial habits exhibited by them. 
+
+**Action:**  
+Analyzed patterns in credit card ownership across different age groups in the U.S.  
+
+**Methods:**  
+- Applied Negative Binomial Distribution models to survey data.  
+- Segmented data by age and demographic characteristics.  
+
+**Results:**  
+- Identified trends in credit card usage across demographics.  
+- Provided insights into financial habits and credit preferences.
 
   ![Credit Card Usage Project](/docs/assets/creditCard.jpg)
 
@@ -101,12 +144,35 @@ How many credit cards do people in the United States own and why? This breakdown
 
 This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
 
+**Action:**  
+Modeled ticket sales trends for the movie "Wonka" using probabilistic methods.  
+
+**Methods:**  
+- Applied time-series probability distributions (e.g., Weibull Distribution).  
+- Incorporated time-varying covariates (weekends, holidays) to capture sales patterns.  
+
+**Results:**  
+- Accurately captured dual behavioral segments in ticket sales.  
+- Provided insights into movie-going trends and seasonal effects.
+  
 ![Wonka Project](/docs/assets/wonka.jpg)
 
 <a id="decomposing-recent-protests-in-the-us"></a>  
 ## Decomposing Recent Protests in the US
 
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
+
+**Action:**  
+Analyzed and categorized 42,533 protests across the U.S. (2020–2022).  
+
+**Methods:**  
+- Decomposed data by location, nature, timeframe, and associated organizations.  
+- Conducted exploratory data analysis (EDA) to identify patterns and trends.  
+
+**Results:**  
+- Revealed geographic and temporal trends in protest activity.  
+- Identified key actors and causes, informing sociopolitical analyses.  
+
 
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
 
@@ -117,16 +183,35 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
 
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
+**Action:**  
+Developed a comprehensive business plan for biodegradable soil sensors.  
+
+**Methods:**  
+- Conducted market research and competitor analysis.  
+- Created a product strategy, financial model, and operations plan.  
+
+**Results:**  
+- Presented a viable go-to-market strategy.  
+- Highlighted the potential impact on sustainable agriculture.
  ![Soil Sensors Business Plan](docs/assets/SLIDES12_AgriVue.jpg)
 
 <a href="https://docs.google.com/presentation/d/1LCqmTNJ7ml7fCio8PndM6OE5DTvxfYXaJ7hTeSNl6aE/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">Link to slide deck</a>
 
 <a id="consulting-insurance-company-on-arvr-integration"></a>  
 ## Consulting Fortune 500 Insurance Company on Integrating AR/VR  
-## Consulting Fortune 500 Insurance Company on Integrating AR/VR into their Value Chain to Improve Efficiency
 
 I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Collaborating advise Assurant Solutions, a Fortune 500 insurance provider, on leveraging Augmented and Virtual Reality technologies in their smart devices insurance division across their value chain. We presented a competitor analysis and Go-to-Market plan to implement the technology into Assurant’s existing business model
 
+**Action:**  
+Advised Assurant Solutions on leveraging AR/VR technology.  
+
+**Methods:**  
+- Conducted competitor analysis and identified use cases for smart device insurance.  
+- Developed a go-to-market strategy for AR/VR integration.  
+
+**Results:**  
+- Proposed an implementation plan to improve efficiency.  
+- Provided actionable insights to enhance product offerings. 
 
  ![AR/VR Consulting Project](docs/assets/ARVR.jpg)
  
