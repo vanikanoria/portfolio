@@ -143,7 +143,7 @@ How many credit cards do people in the United States own and why? This breakdown
 
 
 <a id="generative-probability-models-for-wonka-ticket-sales"></a>  
-## Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’ (2024)
+## Capturing Behavioral Trends in Ticket Sales of the Movie ‘Wonka’
 
 This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
 
@@ -159,6 +159,8 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 - Provided insights into movie-going trends and seasonal effects.
   
 ![Wonka Project](/docs/assets/wonka.jpg)
+
+<a href= "https://docs.google.com/document/d/1-PKIqhM4UE7eD6I4BJn0yteaYdaPIJSlaMNlUWYxIjc/edit?usp=sharing" target="_blank">Link to paper</a>
 
 <a id="decomposing-recent-protests-in-the-us"></a>  
 ## Decomposing Recent Protests in the US
