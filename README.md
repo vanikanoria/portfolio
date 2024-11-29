@@ -167,7 +167,7 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
 <a href="https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb" target="_blank">Github link</a>
 
 <a id="business-plan-for-biodegradable-soil-sensors"></a>  
-## End-to-end business plan for a biodegradable soil sensors
+## End-to-end business plan for biodegradable soil sensors
 
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
