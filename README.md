@@ -30,7 +30,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 <a id="multimodal-breast-cancer-classification"></a> 
 ## Multi-Modal Models for Breast Cancer Classification
-	
+As a final project for my Deep Learning class, I worked with teammates Adwait Agashe, Renu Jadhav, and Uday Malhotra to introduce a multimodal deep learning framework that integrates mammogram imaging with textual clinical data, evaluates multiple combinations of vision and text-based architectures, and compares their performance with an image-only base model.	
 
 **Objective:** 
 - Develop a multimodal deep learning framework to enhance the accuracy of breast cancer diagnosis by integrating mammogram imaging data with clinical features.
