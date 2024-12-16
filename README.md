@@ -44,10 +44,9 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 **Results:**  
 - Achieved 86.36% test accuracy with the BERT-ViT configuration, demonstrating a 25% improvement over the ResNet baseline.
 - Demonstrated the potential of multimodal learning for breast cancer detection, combining complementary imaging and clinical features for better diagnostic support.
-
+<img width="1073" alt="Architecture" src="https://github.com/user-attachments/assets/f7b1ecdc-02ed-4694-bfb2-c3070e3a4e6b" />
 
 <a href="https://github.com/vanikanoria/MultiModalBreastCancerClassification" target="_blank">Github link</a>
-
 
 <a id="churn-prediction-model-for-sisense"></a>  
 ## Churn Prediction Model for **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
@@ -67,7 +66,6 @@ In this internship project, I built two machine learning models to predict churn
 **Results:**  
 - Achieved **94% test accuracy** by combining models.  
 - Identified key churn drivers, enabling targeted customer success interventions.  
-<img width="1073" alt="Architecture" src="https://github.com/user-attachments/assets/f7b1ecdc-02ed-4694-bfb2-c3070e3a4e6b" />
 
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
