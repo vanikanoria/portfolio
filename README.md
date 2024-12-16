@@ -11,8 +11,8 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 # Projects
 
 ### Machine Learning
-
-- [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)  
+- [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
+- [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
@@ -27,6 +27,27 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 ### Business Strategy in Tech  
 - [End-to-End Business Plan for Biodegradable Soil Sensors](#business-plan-for-biodegradable-soil-sensors)  
 - [Consulting Fortune 500 Insurance Company on Integrating AR/VR](#consulting-insurance-company-on-arvr-integration)  
+
+<a id="multimodal-breast-cancer-classification"></a> 
+## Multi-Modal Models for Breast Cancer Classification
+	
+
+**Objective:** 
+- Develop a multimodal deep learning framework to enhance the accuracy of breast cancer diagnosis by integrating mammogram imaging data with clinical features.
+
+**Methods:** 
+- Utilized the CBIS-DDSM dataset, combining mammogram images with tabular clinical data for multimodal analysis.
+- Explored multiple architectures:
+	•	ResNet for image-only classification.
+	•	Multimodal combinations of CLIP (image and text), BERT (text), ResNet (image), and Vision Transformers, or ViT (image).
+
+**Results:**  
+- Achieved 86.36% test accuracy with the BERT-ViT configuration, demonstrating a 25% improvement over the ResNet baseline.
+- Demonstrated the potential of multimodal learning for breast cancer detection, combining complementary imaging and clinical features for better diagnostic support.
+
+
+<a href="https://github.com/vanikanoria/MultiModalBreastCancerClassification" target="_blank">Github link</a>
+
 
 <a id="churn-prediction-model-for-sisense"></a>  
 ## Churn Prediction Model for **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
