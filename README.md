@@ -22,6 +22,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’](#generative-probability-models-for-wonka-ticket-sales)  
 
 ### Data Analysis  
+- [User Journey Analysis for Unqork Platform](#user-journey-analysis)
 - [Decomposing Recent Protests in the US](#decomposing-recent-protests-in-the-us)  
 
 ### Business Strategy in Tech  
@@ -163,6 +164,23 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 ![Wonka Project](/docs/assets/wonka.jpg)
 
 <a href= "https://docs.google.com/document/d/1-PKIqhM4UE7eD6I4BJn0yteaYdaPIJSlaMNlUWYxIjc/edit?usp=sharing" target="_blank">Link to paper</a>
+
+<a id="user-journey-analysis"></a>  
+## User Journey Analysis for Unqork Platform
+In this project, I analyzed the behavior of new users on Unqork’s no-code platform during their first 30 days. By identifying key engagement patterns and user behaviors, I ensured trial design and onboarding processes were guided by data-driven insights.
+
+**Objective**  
+- Develop a detailed analysis of the initial user journey on Unqork’s platform to inform marketing trials and improve onboarding strategies.
+
+**Methods**  
+- Analyzed user interactions and behavior within their first 30 days on the platform.  
+- Focused on key user actions such as module views, component creation, and advanced searches.  
+- Collaborated with marketing and product teams to align findings with trial and onboarding improvements.
+
+**Results**  
+- Insights directly informed marketing trial design and onboarding enhancements.  
+- Led to a **20% increase in customer engagement** during the trial period.  
+- Identified actionable user patterns to prioritize key features and reduce friction in the onboarding process.  
 
 <a id="decomposing-recent-protests-in-the-us"></a>  
 ## Decomposing Recent Protests in the US
