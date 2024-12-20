@@ -166,7 +166,7 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 <a href= "https://docs.google.com/document/d/1-PKIqhM4UE7eD6I4BJn0yteaYdaPIJSlaMNlUWYxIjc/edit?usp=sharing" target="_blank">Link to paper</a>
 
 <a id="user-journey-analysis"></a>  
-## User Journey Analysis for Unqork Platform
+## User Journey Analysis for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>** Platform
 
 In this project, I analyzed user behavior on Unqork's no-code platform during their first 30 days to optimize marketing trials and onboarding strategies.
 
