@@ -129,7 +129,7 @@ In this project I apply 4 different machine learning models (Linear Regression, 
 
 How many credit cards do people in the United States own and why? This breakdown of the number of credit cards regularly used by different age groups sheds light on the preferred number of cards for different demographic groups, and may even provide hints about financial habits exhibited by them. 
 
-**Objective**  
+**Objective:**  
 - Analyzed patterns in credit card ownership to inform credit card strategy.  
 
 **Methods:**  
@@ -150,7 +150,7 @@ How many credit cards do people in the United States own and why? This breakdown
 
 This paper examines the ticket sales of the movie Wonka in the three months after its release by applying time-series probability distributions and including time-varying covariates such as weekend and holiday effects. The 2-segment Weibull Distribution calibrated to the data captures the presence of two behavioral segments in the population with differing propensities to watch Wonka.
 
-**Objective**  
+**Objective:**  
 - Modeled ticket sale trends for the movie "Wonka" using probabilistic methods to learn about behavioral trends and factors influencing moviegoers.  
 
 **Methods:**  
@@ -170,23 +170,23 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 
 In this project, I analyzed user behavior on Unqork's no-code platform during their first 30 days to optimize marketing trials and onboarding strategies.
 
-**Objective**  
+**Objective:**  
 - Leverage data to understand key engagement patterns of new users.
 - Enhance trial design and onboarding processes to boost user engagement.
   
-**Methods**  
+**Methods:**  
 - Queried time-stamped user interactions in Snowflake, focusing on key actions such as module views, component creation, and advanced searches.
 - Identified the first 5–10 actions new users take after their initial login to understand early engagement.
 - Identified high-usage features (e.g., workspaces, modules) versus low-usage ones to refine self-service trials.
 - Categorized actions (e.g., page views, workflows) and excluded irrelevant events for a cleaner dataset.
 - Partnered with marketing and product teams to align findings with trial and onboarding goals.
 
-**Key Insights**
+**Key Insights:**
 
 - Identified high-impact user behaviors and critical touchpoints during onboarding.
 - Prioritized essential features (e.g., workspaces, modules) and streamlined less-used features in trials.
 
-**Results**  
+**Results:**  
 - Achieved a 20% increase in customer engagement during trials.
 - Informed data-driven enhancements to onboarding, reducing user friction and improving feature adoption.
 
@@ -195,7 +195,7 @@ In this project, I analyzed user behavior on Unqork's no-code platform during th
 
 In this analysis, I decompose 42533 unique protests or riots occurring across the United States from the beginning of 2020 to mid 2022 by location, nature, time frame, and associated actors, which are the organizations involved. 
 
-**Objective**  
+**Objective:**  
 - Analyze and categorize 42,533 protests across the U.S. (2020–2022) to indentify key actors and trends driving the protests.
 
 **Methods:**  
@@ -216,7 +216,7 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
 
 As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin, Caleb Gupta, and David Bakalov to develop a product and market strategy, and financial and operations plan for biodegradable soil sensors developed by Penn researchers.
 
-**Objective**  
+**Objective:**  
 - Develope a comprehensive business plan to commercialize biodegradable soil sensors  
 
 **Methods:**  
@@ -235,7 +235,7 @@ As an Engineering Entrepreneurship Fellow, I worked with teammates Ashley Cousin
 
 I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Collaborating advise Assurant Solutions, a Fortune 500 insurance provider, on leveraging Augmented and Virtual Reality technologies in their smart devices insurance division across their value chain. We presented a competitor analysis and Go-to-Market plan to implement the technology into Assurant’s existing business model
 
-**Objective**   
+**Objective:**   
 - Advise Assurant Solutions on leveraging AR/VR technology to reduce costs in their value chain.  
 
 **Methods:**  
