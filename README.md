@@ -168,7 +168,7 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 <a id="user-journey-analysis"></a>  
 ## User Journey Analysis for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>** Platform
 
-As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank">Unqork</a>, I analyzed user behavior on Unqork's no-code platform during their first 30 days to optimize marketing trials and onboarding strategies.
+As a Product Data Analyst at <a href="https://www.unqork.com/" target="_blank">Unqork</a>, I analyzed user behavior on Unqork's no-code platform during their first 30 days to optimize marketing trials and onboarding strategies.
 
 **Objective:**  
 - Leverage data to understand key engagement patterns of new users.
