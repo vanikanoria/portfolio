@@ -167,20 +167,28 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 
 <a id="user-journey-analysis"></a>  
 ## User Journey Analysis for Unqork Platform
-In this project, I analyzed the behavior of new users on Unqork’s no-code platform during their first 30 days. By identifying key engagement patterns and user behaviors, I ensured trial design and onboarding processes were guided by data-driven insights.
+
+In this project, I analyzed user behavior on Unqork's no-code platform during their first 30 days to optimize marketing trials and onboarding strategies.
 
 **Objective**  
-- Develop a detailed analysis of the initial user journey on Unqork’s platform to inform marketing trials and improve onboarding strategies.
-
+- Leverage data to understand key engagement patterns of new users.
+- Enhance trial design and onboarding processes to boost user engagement.
+  
 **Methods**  
-- Analyzed user interactions and behavior within their first 30 days on the platform.  
-- Focused on key user actions such as module views, component creation, and advanced searches.  
-- Collaborated with marketing and product teams to align findings with trial and onboarding improvements.
+- Queried time-stamped user interactions in Snowflake, focusing on key actions such as module views, component creation, and advanced searches.
+- Identified the first 5–10 actions new users take after their initial login to understand early engagement.
+- Identified high-usage features (e.g., workspaces, modules) versus low-usage ones to refine self-service trials.
+- Categorized actions (e.g., page views, workflows) and excluded irrelevant events for a cleaner dataset.
+- Partnered with marketing and product teams to align findings with trial and onboarding goals.
+
+**Key Insights**
+
+- Identified high-impact user behaviors and critical touchpoints during onboarding.
+- Prioritized essential features (e.g., workspaces, modules) and streamlined less-used features in trials.
 
 **Results**  
-- Insights directly informed marketing trial design and onboarding enhancements.  
-- Led to a **20% increase in customer engagement** during the trial period.  
-- Identified actionable user patterns to prioritize key features and reduce friction in the onboarding process.  
+- Achieved a 20% increase in customer engagement during trials.
+- Informed data-driven enhancements to onboarding, reducing user friction and improving feature adoption.
 
 <a id="decomposing-recent-protests-in-the-us"></a>  
 ## Decomposing Recent Protests in the US
