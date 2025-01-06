@@ -15,6 +15,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
+- [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
 
 ### Probability Modeling
@@ -101,6 +102,26 @@ As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank"
 **Results:**  
 - Optimized product strategy by focusing on key use cases.  
 - Saved **70% of engineering resources** by prioritizing high-impact clusters.
+
+<a id="electricity-price-forecasting"></a>  
+## Electricity Price Forecasting for **New York Residential Sector**
+
+In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector. By incorporating weather data, I significantly improved forecasting accuracy, achieving a MAPE of 2.4% on validation data.
+
+**Objective:**  
+- Predict monthly electricity prices using historical and weather data to identify trends and enhance forecasting accuracy.
+
+**Methods:**  
+- Preprocessed historical electricity price data to address trends, seasonality, and outliers.  
+- Integrated weather variables (temperature, precipitation) from the **Meteostat API** as predictive features.  
+- Built ARIMA and XGBoost regression models, optimizing parameters through grid search.  
+- Evaluated model performance using metrics like MAE, MSE, and MAPE.  
+
+**Results:**  
+- Achieved **2.4% MAPE** on validation data.  
+- Demonstrated the significant impact of weather data on electricity price forecasting, providing actionable insights for energy planners.  
+
+
 
 <a id="explaining-medical-insurance-price-prediction-models"></a>  
 ## Explaining Medical Insurance Price Prediction Models
