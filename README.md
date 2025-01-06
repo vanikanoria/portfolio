@@ -10,13 +10,15 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 
 # Projects
 
-### Machine Learning
-- [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
+### Classical Machine Learning
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
-- [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 - [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
+
+## Deep Learning]
+- [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
+- [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 
 ### Probability Modeling
 - [Modeling Credit Card Usage using Negative Binomial Distributions](#modeling-credit-card-usage-using-negative-binomial-distributions)  
