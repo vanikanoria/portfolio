@@ -16,7 +16,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
 
-## Deep Learning]
+### Deep Learning
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 
