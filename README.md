@@ -117,7 +117,7 @@ In this project, I developed machine learning and time series models to forecast
 - Preprocessed historical electricity price data to address trends, seasonality, and outliers.  
 - Integrated weather variables (temperature, precipitation) from the **Meteostat API** and macroeconomic variables such as Resident Population and Median Annual Income in New York as predictive features.  
 - Built XGBoost regression model, optimizing parameters through grid search.  
-- Evaluated model performance using metrics like MAE, MSE, and MAPE.  
+- Evaluated model performance using MAPE or Mean Absolute Percentage Error.  
 
 **Results:**  
 - Achieved **4.3% MAPE** on validation data without external varibles and **3% MAPE** with weather and macroeconomic variables, which was an improvement of **30%**.  
