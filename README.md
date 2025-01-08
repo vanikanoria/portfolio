@@ -108,20 +108,20 @@ As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank"
 <a id="electricity-price-forecasting"></a>  
 ## Electricity Price Forecasting for **New York Residential Sector**
 
-In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector. By incorporating weather data, I significantly improved forecasting accuracy, achieving a MAPE of 2.4% on validation data.
+In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector. By incorporating weather data from Meteostat and macroeconomic data from FRED, I improved forecasting accuracy by 30% from the base model, achieving a MAPE of 3% on validation data.
 
 **Objective:**  
 - Predict monthly electricity prices using historical and weather data to identify trends and enhance forecasting accuracy.
 
 **Methods:**  
 - Preprocessed historical electricity price data to address trends, seasonality, and outliers.  
-- Integrated weather variables (temperature, precipitation) from the **Meteostat API** as predictive features.  
-- Built ARIMA and XGBoost regression models, optimizing parameters through grid search.  
+- Integrated weather variables (temperature, precipitation) from the **Meteostat API** and macroeconomic variables such as Resident Population and Median Annual Income in New York as predictive features.  
+- Built XGBoost regression model, optimizing parameters through grid search.  
 - Evaluated model performance using metrics like MAE, MSE, and MAPE.  
 
 **Results:**  
-- Achieved **2.4% MAPE** on validation data.  
-- Demonstrated the significant impact of weather data on electricity price forecasting, providing actionable insights for energy planners.  
+- Achieved **4.3% MAPE** on validation data without external varibles and **3% MAPE** with weather and macroeconomic variables, which was an improvement of **30%**.  
+- Demonstrated the significant impact of weather and macroeconomic data on electricity price forecasting, providing actionable insights for energy planners.  
 
 
 
