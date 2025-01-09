@@ -108,7 +108,7 @@ As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank"
 <a id="electricity-price-forecasting"></a>  
 ## Electricity Price Forecasting for **New York Residential Sector**
 
-In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector, achieving a MAPE of 3% on validation data. By incorporating weather data from Meteostat and macroeconomic data from FRED, I improved forecasting accuracy by 30% from the base model, achieving a MAPE of 3% on validation data.
+In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector, achieving a MAPE of 3% on validation data. By incorporating weather data from Meteostat and macroeconomic data from FRED, I improved forecasting accuracy by 40% from the base model, achieving a MAPE of 1.8% on validation data.
 
 **Objective:**  
 - Predict monthly electricity prices using historical, weather and macroeconomic data to identify trends and enhance forecasting accuracy.
