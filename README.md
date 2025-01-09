@@ -124,6 +124,8 @@ In this project, I developed machine learning and time series models to forecast
 - Demonstrated the significant impact of weather and macroeconomic data on electricity price forecasting, providing actionable insights for energy planners.  
 ![all_elec_predictions (3)](https://github.com/user-attachments/assets/15afc77c-ce41-4c5d-a002-c13d664db177)
 
+<a href="https://github.com/vanikanoria/ElectricityPriceForecasting/tree/main" target="_blank">Github link</a>
+
 <a id="explaining-medical-insurance-price-prediction-models"></a>  
 ## Explaining Medical Insurance Price Prediction Models
 
