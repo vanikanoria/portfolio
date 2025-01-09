@@ -11,9 +11,10 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 # Projects
 
 ### Classical Machine Learning
+- [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
-- [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
+
 - [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
 
 ### Deep Learning
