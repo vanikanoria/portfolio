@@ -108,21 +108,21 @@ As a Product Data Analyst at **<a href="https://www.unqork.com/" target="_blank"
 <a id="electricity-price-forecasting"></a>  
 ## Electricity Price Forecasting for **New York Residential Sector**
 
-In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector. By incorporating weather data from Meteostat and macroeconomic data from FRED, I improved forecasting accuracy by 30% from the base model, achieving a MAPE of 3% on validation data.
+In this project, I developed machine learning and time series models to forecast electricity prices in New York’s residential sector, achieving a MAPE of 3% on validation data. By incorporating weather data from Meteostat and macroeconomic data from FRED, I improved forecasting accuracy by 30% from the base model, achieving a MAPE of 3% on validation data.
 
 **Objective:**  
-- Predict monthly electricity prices using historical and weather data to identify trends and enhance forecasting accuracy.
+- Predict monthly electricity prices using historical, weather and macroeconomic data to identify trends and enhance forecasting accuracy.
 
 **Methods:**  
 - Preprocessed historical electricity price data to address trends, seasonality, and outliers.  
-- Integrated weather variables (temperature, precipitation) from the **Meteostat API** and macroeconomic variables such as Resident Population and Median Annual Income in New York as predictive features.  
+- Integrated weather variables (temperature, precipitation) from the **Meteostat API** and macroeconomic variables such as Resident Population and Median Annual Income from **FRED** in New York as predictive features.  
 - Built XGBoost regression model, optimizing parameters through grid search.  
 - Evaluated model performance using MAPE or Mean Absolute Percentage Error.  
 
 **Results:**  
-- Achieved **4.3% MAPE** on validation data without external varibles and **3% MAPE** with weather and macroeconomic variables, which was an improvement of **30%**.  
+- Achieved **3% MAPE** on validation data using only historical electricity prices and **1.8% MAPE** when incorporating weather and macroeconomic variables, a 40% improvement on the base model.  
 - Demonstrated the significant impact of weather and macroeconomic data on electricity price forecasting, providing actionable insights for energy planners.  
-
+![all_elec_predictions (2)](https://github.com/user-attachments/assets/eca2de2e-6f63-48c0-8c8d-5b5c7002946b)
 
 
 <a id="explaining-medical-insurance-price-prediction-models"></a>  
