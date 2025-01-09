@@ -122,7 +122,7 @@ In this project, I developed machine learning and time series models to forecast
 **Results:**  
 - Achieved **3% MAPE** on validation data using only historical electricity prices and **1.8% MAPE** when incorporating weather and macroeconomic variables, a 40% improvement on the base model.  
 - Demonstrated the significant impact of weather and macroeconomic data on electricity price forecasting, providing actionable insights for energy planners.  
-![all_elec_predictions (2)](https://github.com/user-attachments/assets/eca2de2e-6f63-48c0-8c8d-5b5c7002946b)
+![all_elec_predictions (3)](https://github.com/user-attachments/assets/63528614-038e-483c-9d9c-68dce9fcb750)
 
 
 <a id="explaining-medical-insurance-price-prediction-models"></a>  
