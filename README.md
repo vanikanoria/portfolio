@@ -15,8 +15,6 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 
-- [Explaining Medical Insurance Price Prediction Models](#explaining-medical-insurance-price-prediction-models)  
-
 ### Deep Learning
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
