@@ -71,6 +71,7 @@ In this internship project, I built two machine learning models to predict churn
 - Achieved **94% test accuracy** by combining models.  
 - Identified key churn drivers, enabling targeted customer success interventions.  
 
+<a id="loan-default"></a>  
 ## Loan Default Prediction
 
 In this project, I built and evaluated machine learning models to predict the risk of loan default using structured applicant and loan data for only 600 applicants. The project emphasized robust feature engineering, statistical rigor, and model interpretability.
