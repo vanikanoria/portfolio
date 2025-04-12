@@ -91,6 +91,8 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 - Achieved an F1 score of 0.81 and AUC of 0.83 on the test set.
 - Identified key drivers of default: FICO scores, number of payments, applicant age, and loan amount requested.
+  
+![Final Loan Prediction Model](https://github.com/user-attachments/assets/130bebee-099e-44d8-bc3b-2adadd576f30)
 
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
