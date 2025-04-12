@@ -14,6 +14,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
+- [Loan Default Prediction Model](#loan-default) 
 
 ### Deep Learning
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
@@ -69,6 +70,26 @@ In this internship project, I built two machine learning models to predict churn
 **Results:**  
 - Achieved **94% test accuracy** by combining models.  
 - Identified key churn drivers, enabling targeted customer success interventions.  
+
+## Loan Default Prediction
+
+In this project, I built and evaluated machine learning models to predict the risk of loan default using structured applicant and loan data for only 600 applicants. The project emphasized robust feature engineering, statistical rigor, and model interpretability.
+
+**Objective:**  
+- Build predictive models to assess likelihood of loan default and identify key financial, geographic, and demographic risk factors
+
+**Methods:**  
+
+- Conducted exploratory data analysis with statistical testing (Welch’s t-test, Kolmogorov–Smirnov, chi-square) to evaluate feature significance.
+- Engineered financial ratios (e.g. payback power, rent-to-income), and segmented applicants by geography using zip codes and Metropolitan Statistical Areas (MSAs).
+- Integrated an external macroeconomic dataset using zip code and MSA mappings to incorporate local features such as unemployment rates and housing market trends.
+- Trained Logistic Regression, Random Forests, and Gradient Boosting models with hyperparameter tuning
+- Used SHAP values and partial dependence plots to explain predictions and surface non-linear effects
+
+**Results:**  
+
+- Achieved an F1 score of 0.81 and AUC of 0.83 on the test set.
+- Identified key drivers of default: FICO scores, number of payments, applicant age, and loan amount requested.
 
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
