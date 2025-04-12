@@ -92,6 +92,8 @@ In this project, I built and evaluated machine learning models to predict the ri
 - Achieved an F1 score of 0.81 and AUC of 0.83 on the test set.
 - Identified key drivers of default: FICO scores, number of payments, applicant age, and loan amount requested.
 
+<a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
+
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
 
