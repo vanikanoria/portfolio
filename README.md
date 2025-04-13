@@ -17,7 +17,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Loan Default Prediction Model](#loan-default) 
 
 ### Deep Learning
-- [Music-to-podcast Recommendation System](#podcast-rec-system)
+- [Music-to-Podcast Recommendation System](#podcast-rec-system)
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 
@@ -98,7 +98,7 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
 
-<a id="#podcast-rec-system"></a>
+<a id="podcast-rec-system"></a>
 ## Spotify Song-to-Podcast Recommendation System
 This project involved building a content-based recommendation system that connects users’ music preferences to curated podcast suggestions utilizing publicly available data from Spotify. The system extracts semantic themes from song lyrics and podcast metadata to provide personalized recommendations.
 
