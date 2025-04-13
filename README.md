@@ -17,6 +17,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Loan Default Prediction Model](#loan-default) 
 
 ### Deep Learning
+- [Music-to-podcast Recommendation System](#podcast-rec-system)
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 
@@ -97,6 +98,26 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
 
+<a id="#podcast-rec-system"></a>
+## Spotify Song-to-Podcast Recommendation System
+This project involved building a content-based recommendation system that connects users’ music preferences to curated podcast suggestions utilizing publicly available data from Spotify. The system extracts semantic themes from song lyrics and podcast metadata to provide personalized recommendations.
+
+**Objective:**
+To design a robust recommendation engine that bridges the gap between music and podcast consumption by analyzing content similarities, enhancing user discovery, and delivering high-quality recommendations.
+
+**Methods:** 
+- Feature Engineering: Generated embeddings for song lyrics and podcast descriptions using pre-trained NLP models (e.g., Sentence Transformers).
+- Data Engineering: Stored embeddings in PostgreSQL with pgvector for fast similarity queries, integrating relational and vector-based data storage.
+- Recommendation Algorithm: Developed a hybrid ranking mechanism combining vector similarity, keyword overlap, and popularity metrics.
+- Application Development: Built a two-page web application:
+	•	Page 1: Accepts a song input and displays podcast recommendations.
+	•	Page 2: Provides insights into trends in the music and podcast dataset.
+
+**Results:**
+- Delivered highly relevant podcast recommendations based on user-provided songs with measurable improvements in thematic alignment.
+- Successfully demonstrated the integration of advanced NLP techniques with vector databases for real-time recommendations.
+- Created an intuitive interface showcasing both personalized recommendations and dataset insights, highlighting trends in audio content consumption.
+ 
 <a id="adapting-explainability-methods-to-image-generation-models"></a>
 ## Adapting Explainability Methods to Image Generation Models
 
