@@ -117,6 +117,8 @@ In this project, I built and evaluated machine learning models to predict the ri
 - Improved classifier accuracy through advanced training techniques.  
 - Enhanced neutrality of responses for end users.
 
+![SEARCH AGENT](docs/assets/AI_AGENT_DIAG.jpg)
+
 <a href="https://github.com/PaulJKathmann/CIS6200-final-project/tree/main" target="_blank">Github link </a>
 
 <a href="https://docs.google.com/presentation/d/1vlmMXWb2hmlin9D-JCwyScQPwCTtNL0uh4uK0eNWV3Q/edit?slide=id.g34de40b2420_0_5#slide=id.g34de40b2420_0_5" target="_blank">Link to slide deck </a>
