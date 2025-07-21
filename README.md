@@ -16,7 +16,8 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 - [Loan Default Prediction Model](#loan-default) 
 
-### Deep Learning
+### AI & Deep Learning
+- [Bias-Resistant Search Agent](#bias-resistant-search-agent)
 - [Music-to-Podcast Recommendation System](#podcast-rec-system)
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
 - [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
@@ -97,6 +98,30 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
+
+<a id="bias-resistant-search-agent"></a>
+
+## Bias-Resistant LLM Search Agent, Penn Engineering
+
+**Objective:**  
+- Reduce political bias in LLM-powered search results by filtering sources through a BERT-based political bias classifier.
+
+**Methods:**  
+- Built a **BERT-based bias detection model (PoliticalBiasBERT)** to score retrieved sources on ideological leaning.  
+- Developed a **balanced sourcing pipeline** to filter sources and ensure ideologically diverse input to the LLM.  
+- Enhanced classifier performance using **contrastive learning with ideological anchors** and **hierarchical attention transformers**.
+
+**Results:**  
+- Reduced output bias in LLM search agents through source filtering.  
+- Demonstrated correlation between source bias and LLM output bias.  
+- Improved classifier accuracy through advanced training techniques.  
+- Enhanced neutrality of responses for end users.
+
+![Bias-Resistant LLM Search Agent](/docs/assets/bias_llm.jpg)
+
+<a href="https://github.com/PaulJKathmann/CIS6200-final-project/tree/main" target="_blank">Github link </a>
+
+<a href="https://docs.google.com/presentation/d/1vlmMXWb2hmlin9D-JCwyScQPwCTtNL0uh4uK0eNWV3Q/edit?slide=id.g34de40b2420_0_5#slide=id.g34de40b2420_0_5" target="_blank">Link to slide deck </a>
 
 <a id="podcast-rec-system"></a>
 ## Music-to-Podcast Recommendation System
