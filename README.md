@@ -17,6 +17,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Loan Default Prediction Model](#loan-default) 
 
 ### AI & Deep Learning
+- [Multi-Modal Risk Prediction of Post-Surgical Hernia](#hernia-risk)
 - [Bias-Resistant Search Agent](#bias-resistant-search-agent)
 - [Music-to-Podcast Recommendation System](#podcast-rec-system)
 - [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
@@ -98,6 +99,27 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
+
+
+<a id = "hernia-risk"></a>
+
+### Multi-Modal Risk Prediction of Post-Surgical Hernia
+
+As a Research Assistant at the Kording Lab at Penn Medicine, I worked on a project to predict hernia risk before, during, and after surgery by combining structured EHR data with clinical notes. The goal was to support clinical decision-making through interpretable machine learning methods.
+
+**Objective:**  
+Develop robust ML pipelines to assess post-surgical hernia risk at multiple stages of the surgical timeline by leveraging both structured and unstructured clinical data.
+
+**Methods:**
+- Built end-to-end modeling pipelines using structured EHR features (e.g., comorbidities, medications, procedures) and unstructured clinical notes.
+- Extracted domain-specific features and confidence scores from clinical text using prompt engineering and OpenAI’s LLM API.
+- Created clinical note embeddings for additional signal beyond engineered features.
+- Applied tree-based models (e.g., XGBoost) and used SHAP values to provide feature-level explainability to clinicians.
+
+**Results:**
+- Produced accurate predictions of hernia risk across three key timepoints (pre-index, in-index, post-index), supporting proactive intervention planning.
+- Demonstrated that integrating clinical notes significantly improved predictive performance over structured data alone.
+- Delivered interpretable model outputs via SHAP to foster trust and transparency in model-aided clinical decisions.
 
 <a id="bias-resistant-search-agent"></a>
 
