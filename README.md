@@ -32,7 +32,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Decomposing Recent Protests in the US](#decomposing-recent-protests-in-the-us)  
 
 ### Business Strategy in Tech  
-- [Talent Risk Intelligence Platform for Semiconductor Supply Chains][#crewiq]
+- [Talent Risk Intelligence Platform: A Solution for Semiconductor Supply Chains Issues](#crewiq)
 - [End-to-End Business Plan for Biodegradable Soil Sensors](#business-plan-for-biodegradable-soil-sensors)  
 - [Consulting Fortune 500 Insurance Company on Integrating AR/VR](#consulting-insurance-company-on-arvr-integration)  
 
@@ -332,9 +332,9 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
 
 <a id="crewiq"></a>
 
-### Talent Risk Intelligence Platform for Semiconductor Supply Chains
+### Talent Risk Intelligence Platform: A Solution for Semiconductor Supply Chains Issues
 
-As part of the Global Impact Sprint in NYC, I collaborated with a cross-disciplinary team to develop **CrewIQ**, a prototype solution for managing workforce-related risks and opportunities in the semiconductor supply chain. Our platform aimed to help firms navigate labor disruptions and dependencies by offering real-time talent intelligence.
+As part of the HPI Global Impact Sprint in NYC, I collaborated with a cross-disciplinary team of Masters students from MIT, NYU, Babson, HPI and Techno Monterrey to develop **CrewIQ**, a prototype solution for managing workforce-related risks and opportunities in the semiconductor supply chain. Our platform aimed to help firms navigate labor disruptions and dependencies by offering real-time talent intelligence.
 
 **Objective:**
 
