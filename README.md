@@ -32,6 +32,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Decomposing Recent Protests in the US](#decomposing-recent-protests-in-the-us)  
 
 ### Business Strategy in Tech  
+- [Talent Risk Intelligence Platform for Semiconductor Supply Chains][#crewiq]
 - [End-to-End Business Plan for Biodegradable Soil Sensors](#business-plan-for-biodegradable-soil-sensors)  
 - [Consulting Fortune 500 Insurance Company on Integrating AR/VR](#consulting-insurance-company-on-arvr-integration)  
 
@@ -328,6 +329,35 @@ In this analysis, I decompose 42533 unique protests or riots occurring across th
   ![Protests in the US: Exploratory Data Analysis](/docs/assets/protests.jpg)
 
 <a href="https://github.com/vanikanoria/ProtestsInTheUS/blob/main/Exploratory%20Data%20Analysis.ipynb" target="_blank">Github link</a>
+
+<a id="crewiq"></a>
+
+### Talent Risk Intelligence Platform for Semiconductor Supply Chains
+
+As part of the Global Impact Sprint in NYC, I collaborated with a cross-disciplinary team to develop **CrewIQ**, a prototype solution for managing workforce-related risks and opportunities in the semiconductor supply chain. Our platform aimed to help firms navigate labor disruptions and dependencies by offering real-time talent intelligence.
+
+**Objective:**
+
+Design a scalable software solution to visualize, simulate, and mitigate talent-related disruptions in global semiconductor supply chains.
+
+**Methods:**
+
+- Mapped workforce dependencies across chip design, manufacturing, testing, and R&D using real-world firm and facility data.  
+- Built an interactive dashboard that integrates workforce, skill, and geopolitical indicators to assess resilience and flag disruptions (e.g., technician unavailability in Jiangsu, China).
+- Implemented simulation logic to forecast how workforce shifts (e.g., relocation from USA to Japan) would affect cost, production time, and revenue.  
+- Highlighted key skill gaps (e.g., photolithography, statistical process control) and collaboration pipelines (e.g., SUNY-IBM) across nodes in the supply chain.
+
+**Results:**
+
+- Delivered a functioning prototype with a **“World View”** and **“Network View”**, allowing users to visualize workforce health, simulate personnel reallocation, and assess strategic risks.
+- Identified $5B+ cost impact scenarios and 25% efficiency improvements through simulation.
+- CrewIQ was featured in the final showcase, recognized for addressing a critical geopolitical and economic vulnerability with data-driven insight and foresight.
+
+<img width="1171" height="835" alt="Screenshot 2025-08-01 at 10 51 50 AM" src="https://github.com/user-attachments/assets/f50794dc-8b5b-4e77-b181-f2dea710c677" />
+
+  
+<a href="https://www.figma.com/proto/ozYUFUAWfdja8BF18KLyLP/CrewIQ?node-id=53-587&p=f&t=C9Fsut891PDqynwM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=53%3A587&show-proto-sidebar=1" target="_blank">Link to Prototype</a>
+
 
 <a id="business-plan-for-biodegradable-soil-sensors"></a>  
 ## End-to-end business plan for biodegradable soil sensors
