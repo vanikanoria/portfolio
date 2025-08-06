@@ -3,7 +3,7 @@
 
 I'm a Data Scientist passionate about explainable machine learning and product strategy. I grew up being fascinating by Mathematics, which drew me to Data Analysis projects at Colgate University. From there, I transitioned into the tech world, analyzing data to shape business and product strategy at a fast-paced startup. Now, I’m further honing my expertise in machine learning as a Masters student at the University of Pennsylvania.
 
-In addition to technical skills, I bring a unique perspective on high-growth tech businesses as an **<a href="https://eent.seas.upenn.edu/fellows/2024-cohort/#kanoria" target="_blank">Engineering Entrepreneurship Fellow</a>**, where I study the intersection of innovation, technology, and business strategy.
+In addition to technical skills, I bring a unique perspective on high-growth tech businesses as an **<a href="https://eent.seas.upenn.edu/fellows/" target="_blank">Engineering Entrepreneurship Fellow</a>**, where I study the intersection of innovation, technology, and business strategy.
 
 
 
@@ -353,7 +353,8 @@ Design a scalable software solution to visualize, simulate, and mitigate talent-
 - Identified $5B+ cost impact scenarios and 25% efficiency improvements through simulation.
 - CrewIQ was featured in the final showcase, recognized for addressing a critical geopolitical and economic vulnerability with data-driven insight and foresight.
 
-<img width="1171" height="835" alt="Screenshot 2025-08-01 at 10 51 50 AM" src="https://github.com/user-attachments/assets/f50794dc-8b5b-4e77-b181-f2dea710c677" />
+![CrewIQ](https://github.com/user-attachments/assets/9f5f66fb-9972-4327-935e-d1ae8f39b959)
+
 
   
 <a href="https://www.figma.com/proto/ozYUFUAWfdja8BF18KLyLP/CrewIQ?node-id=53-587&p=f&t=C9Fsut891PDqynwM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=53%3A587&show-proto-sidebar=1" target="_blank">Link to Prototype</a>
