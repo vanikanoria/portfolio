@@ -17,7 +17,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Loan Default Prediction Model](#loan-default) 
 
 ### AI & Deep Learning
-- [LLM-Powered Conversation Intelligence for Insurance Claims] (#claims-messaging)
+- [LLM-Powered Conversation Intelligence for Insurance Claims](#claims-messaging)
 - [Multi-Modal Risk Prediction of Post-Surgical Hernia](#hernia-risk)
 - [Bias-Resistant Search Agent](#bias-resistant-search-agent)
 - [Music-to-Podcast Recommendation System](#podcast-rec-system)
