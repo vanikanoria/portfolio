@@ -17,6 +17,7 @@ In addition to technical skills, I bring a unique perspective on high-growth tec
 - [Loan Default Prediction Model](#loan-default) 
 
 ### AI & Deep Learning
+- [LLM-Powered Conversation Intelligence for Insurance Claims] (#claims-messaging)
 - [Multi-Modal Risk Prediction of Post-Surgical Hernia](#hernia-risk)
 - [Bias-Resistant Search Agent](#bias-resistant-search-agent)
 - [Music-to-Podcast Recommendation System](#podcast-rec-system)
@@ -100,6 +101,35 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 
 <a href="https://github.com/vanikanoria/CreditRiskAnalysis/blob/main/ZestAnalysis.ipynb" target="_blank">Github link</a>
+
+
+<a id = "claims-messaging"></a>
+
+## LLM-Powered Conversation Intelligence for Insurance Claims
+
+**Objective:**  
+- Transform unstructured claims communication into actionable insights to accelerate resolution and enable automation.
+
+**Methods:**  
+- Designed and implemented a **hybrid Regex–LLM intent classifier** to detect multiple intents in claimant and staff messages.  
+- Built **OpenAI-powered summarization and subject generation** pipelines to provide concise overviews of message content.  
+- Developed a **Streamlit dashboard** for claims adjusters to monitor KPIs, track trends, and drill down by message intent.  
+- Created **metrics for strategic decision-making**, including volume trends, escalation rates, and conversation duration analysis.
+
+**Product Work:**  
+- Defined **product vision** for an **Automated Claim Communication Routing System** to route intents (e.g., scheduling, document requests, escalations) to the right workflows.  
+- Outlined roadmap for **Data-as-a-Service API** providing JSON outputs with intent, summary, and subject for integration into claims platforms.  
+- Proposed automation flows for common intents, reducing manual review time and improving SLA adherence.
+
+**Results:**  
+- Identified that 55%+ of claimant messages were scheduling or requests, highlighting automation opportunities.  
+- Revealed message volume patterns to inform staffing forecasts and proactive communication strategies.  
+- Demonstrated how **AI-driven triage** could reduce resolution time and surface high-priority escalations in real time.
+
+<img width="2047" height="961" alt="Screenshot 2025-08-10 at 3 03 49 PM" src="https://github.com/user-attachments/assets/575bbcec-34ef-45c3-b088-185a6a501244" />
+
+<a href="https://claims-messages-to-routing-system-g2he5hargnw3avgnmrhwyk.streamlit.app/" target="_blank">Link to Streamlit App</a>
+
 
 
 <a id = "hernia-risk"></a>
