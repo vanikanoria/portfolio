@@ -126,7 +126,7 @@ In this project, I built and evaluated machine learning models to predict the ri
 - Revealed message volume patterns to inform staffing forecasts and proactive communication strategies.  
 - Demonstrated how **AI-driven triage** could reduce resolution time and surface high-priority escalations in real time.
 
-<img width="2047" height="961" alt="Screenshot 2025-08-10 at 3 03 49 PM" src="https://github.com/user-attachments/assets/575bbcec-34ef-45c3-b088-185a6a501244" />
+![Gain Life Case Study](https://github.com/user-attachments/assets/78174d4c-ea01-4593-96d6-3adbd859c727)
 
 <a href="https://claims-messages-to-routing-system-g2he5hargnw3avgnmrhwyk.streamlit.app/" target="_blank">Link to Streamlit App</a>
 
