@@ -130,7 +130,7 @@ In this project, I built and evaluated machine learning models to predict the ri
 
 <a href="https://claims-messages-to-routing-system-g2he5hargnw3avgnmrhwyk.streamlit.app/" target="_blank">Link to Streamlit App</a>
 
-
+<a href="https://github.com/vanikanoria/Claims-Messages-to-Routing-System" target="_blank">Link to Github Repository</a>
 
 <a id = "hernia-risk"></a>
 
