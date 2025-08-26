@@ -438,10 +438,6 @@ I collaborated with Wharton MBAs Tanmay Sharma, Zachary Gross and Ziyi Zhou Coll
 
 # Work Experience
 
-* Machine Learning Engineer (Part-Time) @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
+* Machine Learning Engineer and Data Scientist @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
 
-* Machine Learning Engineer Intern @ **<a href="https://www.sisense.com/" target="_blank">Sisense</a>**
-
-* Data Analyst @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
-
-* Analytics Intern @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
+* Product Data Analyst @ **<a href="https://www.unqork.com/" target="_blank">Unqork</a>**
