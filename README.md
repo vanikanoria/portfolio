@@ -5,7 +5,7 @@ I'm a Data Scientist passionate about explainable machine learning and product s
 
 In addition to technical skills, I bring a unique perspective on high-growth tech businesses as an **<a href="https://eent.seas.upenn.edu/fellows/" target="_blank">Engineering Entrepreneurship Fellow</a>**, where I study the intersection of innovation, technology, and business strategy.
 
-
+You can reach me at vkanoria@seas.upenn.edu
 
 
 # Projects
