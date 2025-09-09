@@ -1,11 +1,13 @@
 ![Profile Picture](/docs/assets/p1.jpg)
 # Vani Kanoria: Data Scientist
 
-I'm a Data Scientist passionate about explainable machine learning and product strategy. I grew up being fascinating by Mathematics, which drew me to Data Analysis projects at Colgate University. From there, I transitioned into the tech world, analyzing data to shape business and product strategy at a fast-paced startup. Now, I’m further honing my expertise in machine learning as a Masters student at the University of Pennsylvania.
+I’m a Data Scientist passionate about **explainable machine learning, product strategy, and building AI that drives real-world impact**. My path started with a fascination for **mathematics** at Colgate University, where I first uncovered the power of data to reveal hidden patterns. That passion took me into the tech world, where I helped venture-backed startups harness data to shape product strategy, improve retention, and accelerate growth.
 
-In addition to technical skills, I bring a unique perspective on high-growth tech businesses as an **<a href="https://eent.seas.upenn.edu/fellows/" target="_blank">Engineering Entrepreneurship Fellow</a>**, where I study the intersection of innovation, technology, and business strategy.
+I recently completed my M.S.E. in Data Science at the University of Pennsylvania, where I deepened my expertise in machine learning, multimodal modeling, and AI for healthcare. Currently, I’m conducting research on how to integrate structured and unstructured clinical data using interpretable ML methods to improve patient outcomes.
 
-You can reach me at vkanoria@seas.upenn.edu
+Beyond research, I bring a unique perspective on innovation and high-growth businesses as an **Engineering Entrepreneurship Fellow**, where I partnered with founders and investors to evaluate startups and explore commercialization strategies for frontier technologies.
+
+📬 Let’s connect: **vkanoria@seas.upenn.edu**
 
 
 # Projects
