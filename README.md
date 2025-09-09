@@ -12,19 +12,19 @@ Beyond research, I bring a unique perspective on innovation and high-growth busi
 
 # Projects
 
+### AI & Applied ML
+- [Multi-Modal Risk Prediction of Post-Surgical Hernia](#hernia-risk)
+- [LLM-Powered Conversation Intelligence for Insurance Claims](#claims-messaging)
+- [Bias-Resistant Search Agent](#bias-resistant-search-agent)
+- [Music-to-Podcast Recommendation System](#podcast-rec-system)
+- [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
+- [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)
+
 ### Classical Machine Learning
 - [Forecasting Electricity Prices for New York Residential Sector](#electricity-price-forecasting)
 - [Churn Prediction Model for  Sisense Customers](#churn-prediction-model-for-sisense)
 - [Use Case Clustering for No-Code Platform <a href="https://www.unqork.com/" target="_blank">Unqork</a>](#workflow-use-case-clustering)
 - [Loan Default Prediction Model](#loan-default) 
-
-### AI & Deep Learning
-- [LLM-Powered Conversation Intelligence for Insurance Claims](#claims-messaging)
-- [Multi-Modal Risk Prediction of Post-Surgical Hernia](#hernia-risk)
-- [Bias-Resistant Search Agent](#bias-resistant-search-agent)
-- [Music-to-Podcast Recommendation System](#podcast-rec-system)
-- [Multi-Modal Models for Breast Cancer Classification](#multimodal-breast-cancer-classification)
-- [Adapting Explainability Methods to Image Generation Models](#adapting-explainability-methods-to-image-generation-models)  
 
 ### Probability Modeling
 - [Modeling Credit Card Usage using Negative Binomial Distributions](#modeling-credit-card-usage-using-negative-binomial-distributions)  
