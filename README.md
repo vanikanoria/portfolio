@@ -45,33 +45,30 @@ Beyond research, I bring a unique perspective on innovation and high-growth busi
 ## AI-Powered Venture Sourcing: Recommender for Category-Defining Repositories
 
 **Objective:**  
-- Build an intelligent system to **identify open-source GitHub repositories with the potential to become category-defining companies**, enabling investors and scouts to spot emerging winners early.
+- Prioritize GitHub repositories with the potential to become category-defining companies by combining interpretable signals with modern AI-driven recommendation pipelines.
 
 **Methods:**  
-- Designed two complementary approaches:  
-  - **Retriever + LLM Reranker:** Created a **Category Defining Score (CDS)** using novelty, adoption velocity, commerciality, and community leadership; reranked by an LLM for enterprise readiness.  
-  - **Weakly-Supervised Neural Recommender:** Trained a neural network distilled from Crunchbase-funded repos, capturing non-linear interactions across features.  
-- Enriched data with:  
-  - **Embeddings & Novelty:** Repo descriptions embedded (MiniLM) and compared against incumbent centroids (e.g., Hugging Face, OpenAI).  
-  - **Adoption Metrics:** Stars, forks, issues normalized by repo age.  
-  - **Commerciality:** LLM scoring from websites and metadata.  
-  - **Community Leadership:** Contributor activity and dependency graphs from Libraries.io.  
-- Fused results using **Reciprocal Rank Fusion (RRF)** to balance interpretability (retriever) and predictive power (neural model).  
-- Evaluated robustness with **bootstrap stability tests** and **feature ablation studies**.
+- Built two complementary approaches:  
+  - **Retriever + LLM Reranker:** Developed a **Category Defining Score (CDS)** from novelty, adoption velocity, commerciality, and community leadership; reranked with an LLM using few-shot prompting on structured metadata.  
+  - **Weakly-Supervised Neural Recommender:** Trained a LightGBM teacher on Crunchbase-funded repos (weak labels), then distilled predictions into a student MLP capturing non-linear feature interactions.  
+- Data enrichment included:  
+  - **Embeddings & Novelty:** MiniLM embeddings of repo descriptions/tags; novelty scored as distance from incumbent leaders (Hugging Face, OpenAI, Databricks).  
+  - **Adoption Metrics:** Stars, forks, and issues normalized by repo age.  
+  - **Commerciality:** LLM scoring (0–5) from websites, descriptions, and repo metadata.  
+  - **Community Leadership:** Contributors and dependency graph signals from Libraries.io.  
+- Combined both models with **Reciprocal Rank Fusion (RRF)**, balancing interpretability and predictive power.  
+- Evaluated via **bootstrap resampling** (stability) and **feature ablations** (importance of each pillar).
+
+**Results:**  
+- **Adoption velocity** and **novelty** were the strongest predictors; removing either reshuffled most of the top-20.  
+- **Commercial intent** separated hobby repos from projects with company formation signals.  
+- **Community leadership** had limited impact due to sparse dependency data, but is strategically important as graphs mature.  
+- **Stability analysis:** Neural model showed Top-10 stability ≈ 0.62; CDS+LLM ≈ 0.28, making it better for exploratory picks.  
+- **Hybrid modeling** outperformed single pipelines, with RRF balancing stability and discovery.
 
 **Product Work:**  
 - Defined roadmap for an **interactive investor dashboard** with LLM-powered explanations of why a repo is high-potential.  
-- Proposed **Data-as-a-Service API** exposing ranked lists and metadata for sourcing workflows.  
 - Outlined next steps: **semi-supervised scaling, graph-based dependency modeling, and pairwise LLM judgments** for more nuanced comparisons.
-
-**Results:**  
-- **Adoption velocity** and **novelty** emerged as the strongest predictors of category-defining potential.  
-- **Commercial signals** distinguished hobby repos from company-forming efforts.  
-- The **fusion model** produced robust and diverse rankings, with the neural model offering stability and the LLM reranker surfacing exploratory “dark horse” repos.  
-- Demonstrated a framework that **balances conviction and discovery**, useful for VC sourcing and technology scouting.
-
-
-<a href="https://github.com/vanikanoria/Recommendation-System-Category-Defining-Repos" target="_blank">Link to Github Repository</a>
 
 
 <a id="multimodal-breast-cancer-classification"></a> 
