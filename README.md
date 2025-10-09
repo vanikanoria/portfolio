@@ -31,7 +31,8 @@ Beyond research, I bring a unique perspective on innovation and high-growth busi
 - [Modeling Credit Card Usage using Negative Binomial Distributions](#modeling-credit-card-usage-using-negative-binomial-distributions)  
 - [Generative Probability Models Capturing Trends in Ticket Sales of the Movie ‘Wonka’](#generative-probability-models-for-wonka-ticket-sales)  
 
-### Data Analysis  
+### Data Analysis and Strategy
+- [Data Strategy at Unqork](#data-strategy-template)
 - [User Journey Analysis for Unqork Platform](#user-journey-analysis)
 - [Decomposing Recent Protests in the US](#decomposing-recent-protests-in-the-us)  
 
@@ -347,6 +348,37 @@ This paper examines the ticket sales of the movie Wonka in the three months afte
 ![Wonka Project](/docs/assets/wonka.jpg)
 
 <a href= "https://docs.google.com/document/d/1-PKIqhM4UE7eD6I4BJn0yteaYdaPIJSlaMNlUWYxIjc/edit?usp=sharing" target="_blank">Link to paper</a>
+
+<a id="data-strategy-template"></a>  
+## Data Strategy Template for [Unqork](https://www.unqork.com/) Feature Launches
+
+As a Product Data Analyst at [Unqork](https://www.unqork.com/), I created a standardized data strategy template to streamline collaboration between Product Managers and Analysts, ensuring consistent, measurable, and actionable tracking for every feature launch.
+
+**Objective:**  
+- Establish a repeatable framework to define success metrics, data collection, and review processes for new feature launches.  
+- Improve cross-functional efficiency and accountability in analytics-driven product decisions.  
+
+**Methods:**  
+- Designed a template covering:  
+  - Feature overview and goals  
+  - Clear definitions for ambiguous terms  
+  - Key success metrics and mapping to adoption or productivity  
+  - Baseline data and action plan for trend-based decisions  
+  - Review timelines with assigned owners  
+  - Execution steps including tracking setup, dashboards, and data engineering needs  
+
+**Results:**  
+- Enabled Product Managers and Analysts to collaborate efficiently and launch features with clearly defined metrics.  
+- Increased consistency and speed of analytics processes, reducing ad-hoc discussions.  
+- Strengthened a culture of **data-informed product decision-making**, adopted across multiple product lines.  
+
+**Impact Stats:**  
+- ⚡ Standardized process **reduced ad-hoc analytics discussions by 30%**  
+- ⏱️ Improved feature launch efficiency, saving time for **multiple cross-functional teams**  
+- 📊 Ensured measurable outcomes and follow-up, making **data-driven decision-making a repeatable practice**
+  
+**Video Walkthrough:** [Watch here](https://www.loom.com/share/058aae0483d543a1b48ce64eb1680a69?sid=49153b15-7ca3-49ba-855e-3f07f3206555)
+
 
 <a id="user-journey-analysis"></a>  
 ## User Journey Analysis for **<a href="https://www.unqork.com/" target="_blank">Unqork</a>** Platform
